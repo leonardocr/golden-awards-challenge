@@ -26,7 +26,7 @@ API RESTful para leitura e análise dos vencedores da categoria **Pior Filme** d
 ### ✅ Pré-requisitos:
 
 - Java 21+
-- Git (opcional)
+- Git
 - Terminal Linux/Mac ou WSL (Windows Subsystem for Linux)
 
 ### ▶️ Executando:
