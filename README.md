@@ -33,10 +33,10 @@ API RESTful para leitura e análise dos vencedores da categoria **Pior Filme** d
 
 ```bash
 # Clone o repositório
-HTTPS
+# HTTPS
 git clone https://github.com/leonardocr/golden-awards-challenge.git
 
-SSH
+# SSH
 git clone git@github.com:leonardocr/golden-awards-challenge.git
 
 cd golden-awards-challenge
